@@ -1,3 +1,5 @@
+@import '~antd/dist/antd.css';
+
 .App {
   text-align: center;
 }
@@ -19,4 +21,15 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.wrap {
+  padding: 10px 20px;
+}
+
+.section {
+  border: solid 1px #ccc;
+  border-radius: 10px;
+  margin: 20px 0;
+  padding: 20px;
 }
