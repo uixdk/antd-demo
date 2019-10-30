@@ -33,3 +33,13 @@
   margin: 20px 0;
   padding: 20px;
 }
+
+.page-nav {
+  border-bottom: solid 3px #ccc;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.icon-list .anticon {
+  margin: 0 10px 0 0;
+}
