@@ -38,7 +38,7 @@ class ButtonSize extends React.Component {
           <Button type="primary" shape="round" icon="download" size={size}>Download</Button>
           <Button type="primary" icon="download" size={size}>Download</Button>
         </div>
-        <div class="button-demo">
+        <div className="button-demo">
           <Button.Group size={size}>
             <Button type="primary">
               <Icon type="left" /> Backward
